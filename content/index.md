@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Jardim Digital de Direito
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Esta são minhas notas que criei e crio enquanto estudo direito.
+
+Meu nome é Guilherme, e sinta-se a vontade para me mandar sugestões no meu [e-mail](mailto:guilherme.sampaio.gomes@outlook.com.br)
+
+# Índice
+[[Índice Direito Previdenciário]]
+[[Índice Jurisdição e Normas Fundamentais de Processo Civil]]
+[[Índice Direito Constitucional]]
