@@ -8,8 +8,8 @@ Meu nome é Guilherme, e sinta-se a vontade para me mandar sugestões no meu [e-
 
 # Índice
 
-[[Índice Direito Previdenciário]].
+[[Direito Previdenciário]].
 
-[[Índice Jurisdição e Normas Fundamentais de Processo Civil]].
+[[Jurisdição e Normas Fundamentais de Processo Civil]].
 
-[[Índice Direito Constitucional]].
+[[Direito Constitucional]].
