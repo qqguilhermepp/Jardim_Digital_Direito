@@ -21,26 +21,41 @@ Pode ser dividida em duas fases: privada e pública.
 
 
 **1543:** é criada a primeira Santa Casa (**1ª fase: Assistência Social**)
+
 **1824:** a Constituição passa a prever os socorros públicos enquanto ação de natureza assistencial
+
 **1835:** MONGERAL (previdência privada, sistema mutualista)
+
 **1891:** a Constituição prevê a aposentadoria por invalidez decorrente de acidente em serviço do servidor (como não havia contribuição, não era uma previdência, e sim uma indenização paga ao servidor)
+
 **1919:** 1ª Lei de Acidentes do Trabalho (seguros privados). A empresa era obrigada a pagar uma indenização a depender da extensão do acidente. Também poderia contratar seguradoras privadas para responder aos acidentes.
 	**Art. 201, § 10, CF/88.** Lei complementar poderá disciplinar a cobertura de benefícios não programados, inclusive os decorrentes de acidente do trabalho, a ser atendida concorrentemente pelo Regime Geral de Previdência Social e pelo setor privado (EC 103/2019)
 	Se editada tal LC, o empregador poderá escolher se contribuirá para o RGPS ou para uma seguradora privada, retornando a tal período.
+
 **1923:** Lei Eloy Chaves (Decreto Legislativo 4.682)
 	- Surgimento da Previdência Social no Brasil (**2ª fase: Seguro social**)
 	- Criação das Caixas de Aposentadorias e Pensões - CAPS nas ferrovias (organizadas por empresas)
+
 **1926:** Lei nº 5.109 estende as CAPs aos portuários e marítimos
+
 **1928:** Lei nº 5.485 estende as CAPs aos trabalhadores dos serviços telegráficos e radiotelegráficos
+
 **1933:** Governo Getúlio Vargas
 	- Início da estatização do sistema previdenciário
 	- Criam-se os Institutos de Aposentadorias e Pensões - IAPs (não mais por empresa, mas sim por categoria profissional)
+
 **1934:** Constituição prevê a tríplice forma de custeio (governo, empresa e trabalhador)
+
 **1937:** Constituição usa, pela primeira vez, a expressão "Seguro Social"
+
 **1960:** Lei 3.807 (Lei Orgânica da Previdência Social - LOPS) unifica a legislação dos IAPs
+
 **1966:** IAPs são unificados formando o Instituto Nacional de Previdência Social - INPS
+
 **1977:** Lei 6.439 cria o Sistema Nacional de Previdência e Assistência Social - SINPAS
+
 **1988:** A CF institui a Seguridade Social (3ª fase), composta pelos subsistemas da Saúde, Assistência e Previdência.
+
 **1990:** Decreto 99.350 criou o INSS, mediante fusão do Instituto de Administração Financeira da Previdência e Assistência Social (IAPAS), com o Instituto Nacional de Previdência Social (INPS)
 
 
