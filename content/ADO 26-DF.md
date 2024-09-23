@@ -1,0 +1,1 @@
+O STF reconheceu a omissão do Congresso Nacional em legislar sobre a criminalização da homofobia e da transfobia, equiparando-as ao crime de racismo social.

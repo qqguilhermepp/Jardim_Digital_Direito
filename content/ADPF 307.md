@@ -1,0 +1,3 @@
+O governador da paraíba recebeu o orçamento da Defensoria, o qual estava dentro dos limites da LDO (o chefe do executivo não pode fazer ajustes). Não obstante, violando a autonomia da Defensoria Pública, efetuou cortes, e colocou-a na estrutura da secretaria de justiça, ficando subordinada ao poder executivo.
+
+Assim, o STF afirmou que a autonomia da Defensoria Pública é um preceito fundamental a ser respeitado na Constituição.
