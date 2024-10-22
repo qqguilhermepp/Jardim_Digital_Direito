@@ -103,7 +103,17 @@ Assim, a ampla defesa é exercida através do contraditório.
 
 **Dimensões do Princípio do Contraditório:**
 - **Formal:** ser ouvido, participar, ser comunicado e falar no processo.
-- **Substancial:** ter condições de influenciar no conteúdo da decisão.
+- **Substancial:** ter condições de influenciar no conteúdo da decisão.]
+
+>[!quote] Código de Processo Civil
+>**Art. 7º** É assegurada às partes paridade de tratamento em relação ao exercício de direitos e faculdades processuais, aos meios de defesa, aos ônus, aos deveres e à aplicação de sanções processuais, competindo ao juiz zelar pelo efetivo contraditório.
+
+>[!quote] Código de Processo Civil
+>**Art. 9º** Não se proferirá decisão contra uma das partes sem que ela seja previamente ouvida.
+>**Parágrafo único.** O disposto no caput não se aplica:
+>ㅤㅤ**I -** à tutela provisória de urgência;
+>ㅤㅤ**II -** às hipóteses de tutela da evidência previstas no art. 311, incisos II e III;
+>ㅤㅤ**III -** à decisão prevista no art. 701.
 
 >[!quote] Código de Processo Civil
 >**Art. 10**. O juiz não pode decidir, em grau algum de jurisdição, com base em fundamento a respeito do qual não se tenha dado às partes <u>oportunidade de se manifestar</u>, ainda que se trate de matéria sobre a qual deva decidir de ofício.
@@ -161,8 +171,16 @@ Para efetivar a duração razoável do processo, há os seguintes mecanismos:
 - A representação contra o magistrado que exceda injustificadamente os prazos previstos em lei (art. 235 do CPC)
 
 ## Princípio da Igualdade Processual
+>[!quote] CF/88
+>**Art. 5º** <u>Todos são iguais perante a lei</u>, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
+>(...)
+
 > [!quote] Código de Processo Civil
 > **Art. 7º** É assegurada às partes <u>paridade de tratamento</u> em relação ao exercício de direitos e faculdades processuais, aos meios de defesa, aos ônus, aos deveres e à aplicação de sanções processuais, competindo ao juiz zelar pelo efetivo contraditório.
+
+> [!quote] Código de Processo Civil
+> **Art. 139.** O juiz dirigirá o processo conforme as disposições deste Código, incumbindo-lhe:
+> ㅤㅤ**I -** assegurar às partes igualdade de tratamento;
 
 > **Enunciado nº 379 do FPPC:** O exercício dos poderes de direção do processo pelo juiz deve observar a <u>paridade de armas das partes</u>.
 
@@ -296,6 +314,7 @@ Ambos são formas de se atingir a autocomposição, seja pela transação ou pel
 | Tem uma participação <u>mais ativa</u> no processo de negociação                            | Auxilia as partes a compreender as questões e os interesses em conflito, de modo que eles possam, pelo restabelecimento da comunicação, identificar, <u>por si próprios</u>, soluções consensuais que gerem benefícios mútuos. |
 | Atua preferencialmente nos casos em que <u>não houver vínculo</u> anterior entre as partes. | Atua preferencialmente nos casos em que <u>houver vínculo</u> anterior entre as partes.                                                                                                                                        |
 | <u>Pode sugerir</u> soluções par ao litígio.                                                | <u>Não propõe</u> soluções para os litigantes.                                                                                                                                                                                 |
+
 **Art. 2º, Lei nº 13.140.** A mediação será orientada pelos seguintes princípios:
 **I -** imparcialidade do mediador;
 **II -** isonomia entre as partes;
@@ -328,7 +347,7 @@ A jurisdição é una (uma decisão proferida pelo juiz do acre é válida em S�
 ## Princípio da Indelegabilidade da Jurisdição
 Não pode o órgão investido de jurisdição escusar-se ou abdicar de suas funç~es em favor de outro órgão, sendo irrelevante se dentro ou fora do judiciário.
 
-## Princípio da Inafastabilidade
+## Princípio da Inafastabilidade da Jurisdição
 >[!quote] Código de Processo Civil
 >**Art. 3º, *Caput*.** Não se excluirá da apreciação jurisdicional ameaça ou lesão a direito.
 
@@ -481,6 +500,40 @@ Os pedidos podem ser divididos em:
 - **Pedido imediato:** corresponde ao provimento jurisdicional pretendido (e.g., condenação a pagar quantia)
 - **Pedido mediato:** corresponde ao bem da vida pretendido (e.g., o dinheiro)
 
->[!quote] Código Civil
+Em regra, os pedidos devem ser determinados (refere-se a um bem da vida específico, extremando-o de quaisquer outros). Todavia é admitido pedido genérico nos casos abaixo.
+>[!quote] Código de Processo Civil
 >**Art. 324.** O pedido deve ser determinado.
->**§1º** É lícito, porém, formular pedido genérico
+>**§1º** É lícito, porém, formular pedido genérico:
+>ㅤㅤ**I -** nas ações universais, se o autor não puder individuar os bens demandados;
+>ㅤㅤ**II -** quando não for possível determinar, desde logo, as consequências do ato ou do fato;
+>ㅤㅤ**III -** quando a determinação do objeto ou do valor da condenação depender de ato que deva ser praticado pelo réu.
+
+
+
+Ademais, o pedido é de especial importância ante a vedação de decisões *extrapetitas*.
+>[!quote] Código de Processo Civil
+>**Art. 492.** É vedado ao juiz proferir decisão de natureza diversa da pedida, bem como condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado.
+
+Também é possível cumular pedidos em um único processo, contra o mesmo réu, nos seguintes casos:
+>[!quote] Código de Processo Civil
+>**Art. 326.** É lícito formular mais de um pedido em ordem subsidiária, a fim de que o juiz conheça do posterior, quando não acolher o anterior.
+>**Parágrafo único.** É lícito formular mais de um pedido, alternativamente, para que o juiz acolha um deles.
+
+>[!quote] Código de Processo Civil
+>**Art. 327.** É lícita a cumulação, em um único processo, contra o mesmo réu, de vários pedidos, ainda que entre eles não haja conexão.
+>**§1º** São requisitos de admissibilidade da cumulação que:
+>ㅤㅤ**I -** os pedidos sejam compatíveis entre si;
+>ㅤㅤ**II -** seja competente para conhecer deles o mesmo juízo;
+>ㅤㅤ**III -** seja adequado para todos os pedidos o tipo de procedimento.
+>**§2º** Quando, para cada pedido, corresponder <u>tipo diverso de procedimento</u>, será admitida a cumulação se o autor empregar o <u>procedimento comum</u>, sem prejuízo do emprego das técnicas processuais diferenciadas previstas nos procedimentos especiais a que se sujeitam um ou mais pedidos cumulados, que não forem incompatíveis com as disposições sobre o procedimento comum.
+>**§3º** O inciso I do §1º não se aplica às cumulações de pedidos de que trata o art. 326.
+
+O §3º faz menção à possibilidade de pedidos incompatíveis desde que feitos em subsidiariedade ou alternância entre um e<u></u> outro.
+
+Então, a cumulação de pedidos pode ser classificada da seguinte maneira:
+- **Própria:** quando há a possibilidade de procedência simultânea.
+	- **Simples:** pedidos absolutamente independentes entre si (o resultado de um não interfere no resultado de outro)
+	- **Sucessiva:** a análise do pedido posterior depende da análise do pedido anterior (e.g., reconhecimento de paternidade e obrigação de pagar alimentos)
+- **Imprópria:** quando não há a possibilidade de procedência simultânea, apenas um deles vigorará.
+	- **Subsidiária:** o juiz só conhecerá o pedido posterior após conhecer e indeferir o pedido anterior (e.g., a rescisão do contrato, ou subsidiariamente a revisão das cláusulas).
+	- **Alternativa:** o requerente apresenta vários pedidos possíveis e simultâneos, sem indicar a preferência de um sobre os outros (e.g., devolução de produto defeituoso ou devolução do dinheiro).
