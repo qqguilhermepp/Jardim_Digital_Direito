@@ -3,6 +3,7 @@ title: Índice do Jardim Digital de Direito
 ---
 
 Comando para sincronizar: `npx quartz sync`
+Link: https://qqguilhermepp.github.io/Jardim_Digital_Direito/
 
 Esta são minhas notas que criei e crio enquanto estudo direito.
 
