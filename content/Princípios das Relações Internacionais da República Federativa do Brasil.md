@@ -1,20 +1,20 @@
 
->[!note] Art. 4º, CF/88
->A República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios:
-**I -** independência nacional;
-**II -** prevalência dos direitos humanos;
-**III -** autodeterminação dos povos;
-**IV -** não-intervenção;
-**V -** igualdade entre os Estados;
-**VI -** defesa da paz;
-**VII -** solução pacífica dos conflitos;
-**VIII -** repúdio ao terrorismo e ao racismo;
-**IX -** cooperação entre os povos para o progresso da humanidade;
-**X -** concessão de asilo político.
+>[!quote] CF/88
+>**Art. 4º** A República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios:
+ㅤㅤ**I -** independência nacional;
+ㅤㅤ**II -** prevalência dos direitos humanos;
+ㅤㅤ**III -** autodeterminação dos povos;
+ㅤㅤ**IV -** não-intervenção;
+ㅤㅤ**V -** igualdade entre os Estados;
+ㅤㅤ**VI -** defesa da paz;
+ㅤㅤ**VII -** solução pacífica dos conflitos;
+ㅤㅤ**VIII -** repúdio ao terrorismo e ao racismo;
+ㅤㅤ**IX -** cooperação entre os povos para o progresso da humanidade;
+ㅤㅤ**X -** concessão de asilo político.
 **Parágrafo único.** A República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações.
 
 # VIII- Repúdio ao terrorismo e ao racismo
-Sendo crimes **inafiançáveis** e **imprescritíveis**, juntamente com os crimes de ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático.
+Sendo [[Crimes inafiançáveis e imprescritíveis|crimes inafiançáveis e imprescritíveis]], juntamente com os crimes de ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático.
 
 E em 2004, o STF, com o caso Ellwanger[^1], equiparou as práticas de antissemitismo e antissionismo ao racismo.
 
@@ -25,7 +25,6 @@ Ademais, a injúria racial é racismo, se sujeitando às consequências da impre
 # X- Concessão de asilo político
 **Refúgio político x Asilo Político:** Refúgio é mais amplo, abrangendo o Asilo. O Asilo é dado em razão de perseguição política, enquanto o Refúgio pode ser dado por questões social, cultural, sexual etc.
 - A concessão do Asilo é ato discricionário, enquanto a concessão do Refúgio é ato vinculado.
-
 
 Leia também [[Cesare Battisti]]
 

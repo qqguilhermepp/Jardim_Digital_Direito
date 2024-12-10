@@ -53,32 +53,32 @@ Os princípios têm função:
 
 Este pode ser Formal ou Substancial.
 
-[[Jurisdição e Normas Fundamentais de Processo Civil#Princípio do Devido Processo Legal|Saiba mais]].
+[[⭐ Jurisdição e Normas Fundamentais de Processo Civil#Princípio do Devido Processo Legal|Saiba mais]].
 
 ## Princípio do Juiz Natural
 >[!quote] CF/88
 >**Art. 5º, XXXVII -** não haverá juízo ou tribunal de exceção;
 
-[[Jurisdição e Normas Fundamentais de Processo Civil#Princípio do Juiz Natural|Saiba mais]].
+[[⭐ Jurisdição e Normas Fundamentais de Processo Civil#Princípio do Juiz Natural|Saiba mais]].
 
 ## Princípio da Igualdade
 >[!quote] CF/88
 >**Art. 5º** <u>Todos são iguais perante a lei</u>, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
 >(...)
 
-[[Jurisdição e Normas Fundamentais de Processo Civil#Princípio da Igualdade Processual|Saiba mais]].
+[[⭐ Jurisdição e Normas Fundamentais de Processo Civil#Princípio da Igualdade Processual|Saiba mais]].
 
 ## Princípio da Inafastabilidade da Jurisdição
 >[!quote] CF/88
 >**Art. 5º, XXXV -** a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito;
 
-[[Jurisdição e Normas Fundamentais de Processo Civil#Princípio da Inafastabilidade da Jurisdição|Saiba mais]].
+[[⭐ Jurisdição e Normas Fundamentais de Processo Civil#Princípio da Inafastabilidade da Jurisdição|Saiba mais]].
 
 ## Princípio do Contraditório
 >[!quote] CF/88
 >**Art. 5º, LV.** aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o <u>contraditório</u> e <u>ampla defesa</u>, com os meios e recursos a ela inerentes.
 
-[[Jurisdição e Normas Fundamentais de Processo Civil#Princípio do Contraditório e Princípio da Ampla Defesa|Saiba Mais]].
+[[⭐ Jurisdição e Normas Fundamentais de Processo Civil#Princípio do Contraditório e Princípio da Ampla Defesa|Saiba Mais]].
 
 O princípio do contraditório vem evitar a <u>decisão surpresa</u>. Nesse sentido a Instrução Normativa 39/2016 explicita:
 >**Art. 4º, §1º** Entende-se por "decisão surpresa" a que, no julgamento do mérito da causa, em qualquer grau de jurisdição, aplicar fundamento jurídico ou embasar-se em fato não submetido à audiência prévia de uma ou de ambas as partes.

@@ -2,7 +2,7 @@
 O beneficiário de plano de saúde coletivo por adesão possui legitimidade ativa para se insurgir contra rescisão contratual unilateral realizada pela operadora.
 
 # Informações do Inteiro Teor
-De início, observa-se que, consoante o entendimento consolidado do STJ, as condições da ação são averiguadas de acordo com a **teoria da asserção** [^1], razão pela qual, para que se reconheça a legitimidade ativa, os argumentos aduzidos na inicial devem possibilitar a inferência, em um exame puramente abstrato, de que o autor pode ser o titular da relação jurídica exposta ao juízo. 
+De início, observa-se que, consoante o entendimento consolidado do STJ, as condições da ação são averiguadas de acordo com a <u><b>teoria da asserção</u></b> [^1], razão pela qual, para que se reconheça a legitimidade ativa, os argumentos aduzidos na inicial devem possibilitar a inferência, em um exame puramente abstrato, de que o autor pode ser o titular da relação jurídica exposta ao juízo. 
 
 Na hipótese em exame, ante a rescisão unilateral do contrato pela operadora, o beneficiário pretende garantir o direito de se manter no plano de saúde coletivo por adesão. Assim, o exame da legitimidade ativa para pleitear a referida manutenção deve se verificar em abstrato, à luz da Lei dos Planos de Saúde (Lei n. 9.656/1998 - LPS), acerca da relação jurídica própria dos contratos celebrados sob o regime coletivo. 
 

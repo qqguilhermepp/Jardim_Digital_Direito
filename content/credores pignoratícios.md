@@ -1,0 +1,1 @@
+é aquele que possui direito real de garantia sobre bem móvel
