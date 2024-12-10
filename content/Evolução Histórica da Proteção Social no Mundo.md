@@ -12,7 +12,7 @@ Pode ser dividida em duas fases: privada e pública.
 # 2ª fase: seguro social
 - Em 1883, o Chanceler alemão Otto Von BISMARCK instituiu o primeiro sistema de seguro social (origem da Previdência Social)
 - Fruto da pressão popular em face das precárias condições de trabalho existentes à época (Revolução Industrial)
-- Compreendia: seguro-doença, seguro de acidentes do trabalho, seguro de invalidez e proteção à velhice.
+- Compreendia seguro-doença, seguro de acidentes do trabalho, seguro de invalidez e proteção à velhice.
 - Financiado por contribuições dos empregados e empregadores.
 
 # 3ª fase: seguridade social
